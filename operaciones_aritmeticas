@@ -1,0 +1,25 @@
+# input
+x= int(input("Digite el valor de x: "))
+y= int(input("Digite el valor de y: "))
+
+#processing 
+s=x+y
+r=x-y
+m=x*y
+d=x/y
+de=x//y
+mod=x%y
+p=x**y
+
+#Ouptut
+
+print(" Vamos a ver los resultados de las operaciones") 
+print("------------------------------")
+print( "suma",s) 
+print( "Resta",r)
+print( "Mulmiplicacion",m)
+print( "Divison",d) 
+print( "Division entera",de)
+print( "Modulo",mod)
+print( "Potencia",p)
+print("------------------------------")
